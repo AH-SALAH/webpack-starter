@@ -6,7 +6,7 @@
 - [jquery](http://jquery.net)
 - [fortawesome 5](http://fontawesome.com)
 
-Based on the [HTML5-boilerplate](https://github.com/h5bp/html5-boilerplate)
+> Based on the [HTML5-boilerplate](https://github.com/h5bp/html5-boilerplate)
 ---
 
 ## Build Setup
