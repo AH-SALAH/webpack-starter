@@ -1,4 +1,4 @@
-# :bill: Webpack Starter
+#  ::bill:: Webpack Starter
 
 > Simple Webpack Starter & ready config with:
 
